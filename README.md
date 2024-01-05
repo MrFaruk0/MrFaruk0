@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Akdağ</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
+<h3 align="center">A passionate Computer Engineering student from Türkiye</h3>
 
 - 💬 Ask me about **flask and pyqt6**
 
