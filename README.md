@@ -11,4 +11,4 @@ Some of my projects are:
 
 **Stack:** Python · PyTorch · Scikit-learn · LangChain
 
-📍 Türkiye · [LinkedIn](https://linkedin.com/in/mrfaruk) · [CV](https://drive.google.com/file/d/1aaGJZYLLv3ciezktWLauctOcyNrr13ro/view?usp=sharing)
+📍 Türkiye · [LinkedIn](https://linkedin.com/in/mrfaruk) · [CV](https://drive.google.com/file/d/1RztkH2qNgv1We_g3s_HsUxFdiGe-CKFN/view?usp=sharing)
